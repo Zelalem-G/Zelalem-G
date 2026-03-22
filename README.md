@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Software Engineering student at Bahir Dar University (GPA: 3.88 / 4.00)
+- 🎓 Software Engineering student at Bahir Dar University 
 - 💻 Full-stack developer with experience in web and mobile applications
 - ⚙️ Skilled in building scalable systems using modern technologies
 - 🧠 Strong foundation in Data Structures & Algorithms (150+ LeetCode problems)
